@@ -1,5 +1,6 @@
+#include <stdio.h>
 
-hey
-what is up
-
-emiway bantai
+int main(){
+  
+  pritnf("HelloGit");
+}
